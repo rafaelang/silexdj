@@ -1,2 +1,2 @@
 # silexdj
-Experimental Application Desing for Silex microframework
+Experimental Application Design for Silex microframework
